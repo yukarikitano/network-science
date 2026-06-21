@@ -6,6 +6,7 @@ Personal notes and experiments reading through Easley & Kleinberg,
 ## Structure
 
 - `notes/` — Chapter summaries and concept notes
+- `slides/` — Seminar presentation slides (自主ゼミ)
 - `notebooks/` — Simulations and experiments (coming soon)
 - `report/` — Connections to economics and matching theory (coming soon)
 
@@ -13,7 +14,7 @@ Personal notes and experiments reading through Easley & Kleinberg,
 
 | Chapter | Topic | Notes |
 |---------|-------|-------|
-| 1 | Introduction | 🚧 |
+| 1 | Introduction | ✅ |
 
 ## Motivation
 
