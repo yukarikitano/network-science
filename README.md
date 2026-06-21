@@ -1,6 +1,6 @@
 # Network Science
 
-Personal notes and experiments reading through Kleinberg & Tardos,
+Personal notes and experiments reading through Easley & Kleinberg,
 *Networks, Crowds, and Markets* (2010).
 
 ## Structure
